@@ -45,7 +45,7 @@ I'm a passionate full stack developer and currently a 2nd-year BCA student. I en
 
 ## 📝 Projects
 
-- **[Portfolio Website](https://your-portfolio-link.com)** – Personal portfolio built with Next.js and TailwindCSS
+- **[Portfolio Website](https://ravinyadav.vercel.app/)** – Personal portfolio built with Next.js and TailwindCSS
 - **Flutter Todo App** – Cross-platform todo management app
 - **Node.js Blog API** – Simple backend for a blogging platform
 
